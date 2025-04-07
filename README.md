@@ -17,16 +17,6 @@ I'm a passionate software engineer and full stack developer from Mexico.
 </div>
 
 <div align="center">
-<a href='https://github.com/hiramcastillo36'>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hiramcastillo36&show_icons=true&theme=nord_bright" />
-</a>
-<a href='https://github.com/hiramcastillo36'>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiramcastillo36&layout=compact&langs_count=8&card_width=320" />
-</a>
-  
-</div>
-
-<div align="center">
   <img align="center" src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiramcastillo36&theme=nord_bright' />
 </div>
 
