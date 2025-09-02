@@ -6,9 +6,9 @@
 
 I'm a passionate software engineer and full stack developer from Mexico.
 
-- 💼 Currently, I'm a Software Developer at [Ixmatix Robotics](https://www.ixmatix.com)
+- 💼 Currently, I'm a Software Developer at [Pefai](https://www.pefai.com)
 - 🎓 Studying Intelligent Systems Engineering at the Autonomous University of San Luis Potosí
-- 🌱 Enthusiastically learning **Elixir**
+- 🌱 Enthusiastically learning **Go** and **Java**
 - 📧 Reach out to me at [hiramcastillo36@gmail.com](mailto:hiramcastillo36@gmail.com)
 
 ## 
