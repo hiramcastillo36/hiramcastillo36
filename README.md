@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Hiram
 
-**Software Engineer | Full Stack Developer | HPC enthusiast**
+**Backend Developer | Software Engineer | HPC enthusiast**
 
 ## About Me
 
